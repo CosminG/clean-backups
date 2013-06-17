@@ -1,2 +1,3 @@
 backups_dir = '/srv/bk/'
 how_many_keep = 3
+min_free_gb = 5

@@ -1,3 +1,7 @@
 backups_dir = '/srv/bk/'
-how_many_keep = 3
+how_many_keep = 7
 min_free_gb = 5
+mysql_host = ''
+mysql_user = ''
+mysql_pass = ''
+mysql_db = ''
